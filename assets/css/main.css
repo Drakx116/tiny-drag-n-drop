@@ -1,0 +1,16 @@
+label {
+    font-size: 1.2em;
+    font-family: "Arial Black", serif;
+}
+
+.container {
+    padding: 1em;
+    border: 1px solid black;
+    margin-bottom: 1em;
+    background-color: white;
+}
+
+.task {
+    font-family: "Candara Light", sans-serif;
+    font-size: 1.2em;
+}
